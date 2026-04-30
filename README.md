@@ -1,6 +1,6 @@
 languages: RU, EN
 
-stack: Python, C/C++, TS, Java, SQL
+stack: Python, C/C++, Java, SQL
 
 Data Science & Analytics
 
